@@ -8,7 +8,8 @@ This repo documents how to build a simple, highly available web setup on AWS usi
 
 ## Architecture
 
-![Architecture Diagram](diagrams/architecture.png)
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/62f1f909-4421-4552-8138-4987f3c71194" />
 
 ## What this provides
 
